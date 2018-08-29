@@ -1,5 +1,5 @@
 # hello_world
+another-one
 A new repo
-Ok
-Then
-Something Trying Then
+That's all!
+All conflicts resolved.
