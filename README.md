@@ -1,3 +1,5 @@
 # hello_world
-A new repository
-Hey! I am revising things.
+another-one
+A new repo
+That's all!
+All conflicts resolved.
